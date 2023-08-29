@@ -1,0 +1,5 @@
+@import url(https://unpkg.com/@webpixels/css@1.0/dist/index.css);
+.navbar{
+    background-color: rgb(4, 18, 106);
+    padding:5px;
+}
